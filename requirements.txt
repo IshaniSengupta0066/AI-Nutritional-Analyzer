@@ -1,0 +1,14 @@
+streamlit
+pandas
+python-dotenv
+rapidfuzz
+matplotlib
+pypdf
+faiss-cpu
+langchain
+langchain-core
+langchain-community
+langchain_groq
+langchain-huggingface
+sentence-transformers
+huggingface-hub
